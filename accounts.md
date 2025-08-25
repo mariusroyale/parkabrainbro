@@ -20,5 +20,5 @@
 
 - rebirth #2 xx - 25-08
 [✅] pickup [] recieved :: parkabrainbro
-[] pickup [] recieved :: parkabrainbro9
-[] pickup [] recieved :: parkabrainbro11
+[✅] pickup [] recieved :: parkabrainbro9
+[✅] pickup [] recieved :: parkabrainbro11

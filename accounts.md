@@ -19,6 +19,6 @@
 [✅] parkabrainbro11
 
 - rebirth #2 xx - 25-08
-[] parkabrainbro
-[] parkabrainbro9
-[] parkabrainbro11
+[✅] pickup [] recieved :: parkabrainbro
+[] pickup [] recieved :: parkabrainbro9
+[] pickup [] recieved :: parkabrainbro11

@@ -7,8 +7,8 @@
 | parkabrainbro9    | E             |
 | parkabrainbro10   | M             |
 | parkabrainbro11   | M             |
-| parkabrainbro12   | M             |
-| parkabrainbro13   | M             |
+| parkabrainbro12   |               |
+| parkabrainbro13   |               |
 
 
 ### Rebirth in progress

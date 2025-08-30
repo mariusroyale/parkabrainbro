@@ -2,8 +2,8 @@
 
 | Account           | Assigned      | Free Slots |
 |-------------------|---------------|------------|
-| parkabrainbro     |               |            |
-| parkabrainbro7    |               |            |
+| parkabrainbro     |               |     7      |
+| parkabrainbro7    |               |     8      |
 | parkabrainbro9    |               |            |
 | parkabrainbro10   |               |            |
 | parkabrainbro11   |               |            |
@@ -23,5 +23,5 @@
 [✅] pickup [✅] recieved :: parkabrainbro9
 [✅] pickup [✅] recieved :: parkabrainbro11
 
-- admin event
-- 
+- admin event 30-08
+[✅] pickup [] recieved :: parkabrainbro7

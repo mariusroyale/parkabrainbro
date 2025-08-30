@@ -3,7 +3,7 @@
 | Account           | Assigned      | Free Slots |
 |-------------------|---------------|------------|
 | parkabrainbro     |               |     7      |
-| parkabrainbro7    |               |     8      |
+| parkabrainbro7    |               |     0      |
 | parkabrainbro9    |               |            |
 | parkabrainbro10   |               |            |
 | parkabrainbro11   |               |            |

@@ -5,7 +5,7 @@
 | parkabrainbro     |               |     7      |
 | parkabrainbro7    |               |     0      |
 | parkabrainbro9    |               |     0      |
-| parkabrainbro10   |               |            |
+| parkabrainbro10   |               |     6      |
 | parkabrainbro11   |               |     8      |
 | parkabrainbro12   |               |            |
 | parkabrainbro13   |               |            |

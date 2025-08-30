@@ -4,7 +4,7 @@
 |-------------------|---------------|------------|
 | parkabrainbro     |               |     7      |
 | parkabrainbro7    |               |     0      |
-| parkabrainbro9    |               |            |
+| parkabrainbro9    |               |     1      |
 | parkabrainbro10   |               |            |
 | parkabrainbro11   |               |            |
 | parkabrainbro12   |               |            |
@@ -25,3 +25,4 @@
 
 - admin event 30-08
 [✅] pickup [] recieved :: parkabrainbro7
+[✅] pickup [] recieved :: parkabrainbro9

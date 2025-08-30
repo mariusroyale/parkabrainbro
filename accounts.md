@@ -4,9 +4,9 @@
 |-------------------|---------------|------------|
 | parkabrainbro     |               |     7      |
 | parkabrainbro7    |               |     0      |
-| parkabrainbro9    |               |     1      |
+| parkabrainbro9    |               |     0      |
 | parkabrainbro10   |               |            |
-| parkabrainbro11   |               |            |
+| parkabrainbro11   |               |     8      |
 | parkabrainbro12   |               |            |
 | parkabrainbro13   |               |            |
 

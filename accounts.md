@@ -1,14 +1,14 @@
 ## Accounts
 
-| Account           | Assigned      |
-|-------------------|---------------|
-| parkabrainbro     | M/E           |
-| parkabrainbro7    | M/E           |
-| parkabrainbro9    | E             |
-| parkabrainbro10   | M             |
-| parkabrainbro11   | M             |
-| parkabrainbro12   |               |
-| parkabrainbro13   |               |
+| Account           | Assigned      | Free Slots |
+|-------------------|---------------|------------|
+| parkabrainbro     |               |            |
+| parkabrainbro7    |               |            |
+| parkabrainbro9    |               |            |
+| parkabrainbro10   |               |            |
+| parkabrainbro11   |               |            |
+| parkabrainbro12   |               |            |
+| parkabrainbro13   |               |            |
 
 
 ### Rebirth in progress
@@ -22,3 +22,6 @@
 [✅] pickup [✅] recieved :: parkabrainbro
 [✅] pickup [✅] recieved :: parkabrainbro9
 [✅] pickup [✅] recieved :: parkabrainbro11
+
+- admin event
+- 

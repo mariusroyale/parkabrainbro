@@ -2,14 +2,14 @@
 
 | Account           | Assigned      | Free Slots |
 |-------------------|---------------|------------|
-| parkabrainbro     |               |     7      |
+| parkabrainbro     |               |            | fuse machine
 | parkabrainbro7    |               |     0      |
 | parkabrainbro9    |               |     0      |
 | parkabrainbro10   |               |     6      |
 | parkabrainbro11   |     E         |     8      |
 | parkabrainbro12   |     E         |     0      |
 | parkabrainbro13   |               |            |
-| parkabrainbro67   |     E         |     3      |
+| parkabrainbro67   |     E         |     3      | 
 
 
 ### Rebirth in progress
@@ -31,3 +31,4 @@
 - admin event 30-08 E
 [✅] pickup [] recieved :: parkabrainbro12
 [✅] pickup [] recieved :: parkabrainbro67
+

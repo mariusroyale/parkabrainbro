@@ -6,9 +6,10 @@
 | parkabrainbro7    |               |     0      |
 | parkabrainbro9    |               |     0      |
 | parkabrainbro10   |               |     6      |
-| parkabrainbro11   |               |     8      |
-| parkabrainbro12   |               |            |
+| parkabrainbro11   |     E         |     8      |
+| parkabrainbro12   |     E         |     0      |
 | parkabrainbro13   |               |            |
+| parkabrainbro67   |     E         |     3      |
 
 
 ### Rebirth in progress
@@ -23,6 +24,10 @@
 [✅] pickup [✅] recieved :: parkabrainbro9
 [✅] pickup [✅] recieved :: parkabrainbro11
 
-- admin event 30-08
+- admin event 30-08 M
 [✅] pickup [] recieved :: parkabrainbro7
 [✅] pickup [] recieved :: parkabrainbro9
+
+- admin event 30-08 E
+[✅] pickup [] recieved :: parkabrainbro12
+[✅] pickup [] recieved :: parkabrainbro67

@@ -32,3 +32,10 @@
 [✅] pickup [] recieved :: parkabrainbro12
 [✅] pickup [] recieved :: parkabrainbro67
 
+- admin event 13-09 - M
+[✅] pickup [] recieved :: parkabrainbro11
+[✅] pickup [] recieved :: parkabrainbro70
+
+- admin event 13-09 - E
+[✅] pickup [] recieved :: parkabrainbro68
+[✅] pickup [] recieved :: parkabrainbro69

@@ -3,13 +3,13 @@
 | Account           | Assigned      | Free Slots |
 |-------------------|---------------|------------|
 | parkabrainbro     |               |            | fuse machine
-| parkabrainbro7    |               |     0      |
-| parkabrainbro9    |               |     0      |
-| parkabrainbro10   |               |     6      |
-| parkabrainbro11   |     E         |     8      |
-| parkabrainbro12   |     E         |     0      |
+| parkabrainbro7    |               |            |
+| parkabrainbro9    |               |            |
+| parkabrainbro10   |               |            |
+| parkabrainbro11   |               |            |
+| parkabrainbro12   |               |            |
 | parkabrainbro13   |               |            |
-| parkabrainbro67   |     E         |     3      | 
+| parkabrainbro67   |               |            | 
 
 
 ### Rebirth in progress

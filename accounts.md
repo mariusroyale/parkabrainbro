@@ -1,55 +1,35 @@
 ## Accounts
 
-| Account           | Assigned      | Free Slots |
-|-------------------|---------------|------------|
-| parkabrainbro     |               |            | fuse machine
-| parkabrainbro7    |               |            |
-| parkabrainbro9    |               |            |
-| parkabrainbro10   |               |            |
-| parkabrainbro11   |               |            |
-| parkabrainbro12   |               |            |
-| parkabrainbro13   |               |            |
-| parkabrainbro67   |               |            | 
+| Account         | Assigned | Free Slots | Notes        |
+|-----------------|----------|------------|--------------|
+| parkabrainbro   |          |            | fuse machine |
+| parkabrainbro7  |          |            |              |
+| parkabrainbro9  |          |            |              |
+| parkabrainbro10 |          |            |              |
+| parkabrainbro11 |          |            |              |
+| parkabrainbro12 |          |            |              |
+| parkabrainbro13 |          |            |              |
+| parkabrainbro67 |          |            |              |
+| parkabrainbro71 |          |            |              |
+| parkabrainbro72 |          |            |              |
+| parkabrainbro73 |          |            |              |
+| parkabrainbro74 |          |            |              |
+| parkabrainbro75 |          |            |              |
+| parkabrainbro76 |          |            |              |
+| parkabrainbro77 |          |            |              |
+| parkabrainbro78 |          |            |              |
+| parkabrainbro79 |          |            |              |
+| parkabrainbro81 |          |            |              |
+
+
 
 
 ### Rebirth in progress
 
 - rebirth xx - 25-08
 [✅] pickup [✅] recieved :: recieved parkabrainbro
-[✅] pickup [✅] recieved :: parkabrainbro9
-[✅] pickup [✅] recieved :: parkabrainbro11
-
-- rebirth #2 xx - 25-08
-[✅] pickup [✅] recieved :: parkabrainbro
-[✅] pickup [✅] recieved :: parkabrainbro9
-[✅] pickup [✅] recieved :: parkabrainbro11
-
-- admin event 30-08 M
-[✅] pickup [] recieved :: parkabrainbro7
-[✅] pickup [] recieved :: parkabrainbro9
-
-- admin event 30-08 E
-[✅] pickup [] recieved :: parkabrainbro12
-[✅] pickup [] recieved :: parkabrainbro67
-
-- admin event 13-09 - M
-[✅] pickup [] recieved :: parkabrainbro11
-[✅] pickup [] recieved :: parkabrainbro70
-
-- admin event 13-09 - E
-[✅] pickup [] recieved :: parkabrainbro68
-[✅] pickup [] recieved :: parkabrainbro69
 
 
-parkabrainbro71
-parkabrainbro72
-parkabrainbro73
-parkabrainbro74
-parkabrainbro75
-parkabrainbro76
-parkabrainbro77
-parkabrainbro78
-parkabrainbro79
-parkabrainbro81
-parkabrainbro72
+
+
 
